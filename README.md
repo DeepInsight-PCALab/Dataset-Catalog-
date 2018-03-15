@@ -43,4 +43,5 @@ A catalog for `/data3`.
 | Market1501                | `/data3/Market1501`                | 2.6G   | http://www.liangzheng.org/Project/project_reid.html          | Person Re-identification                                     |                                                              |
 | MARS                      | `/data3/MARS`                      | 19G    | http://www.liangzheng.com.cn/Project/project_mars.html       | Video-based Person Re-identification                         |                                                              |
 | CUHK03                    | `/data3/CUHK03`                    | 8.7G   | http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html   | Person Re-identification                                     |                                                              |
+| GraspingRectangleDataset  | `/data3/GraspingRectangle/`        | 10G    | http://pr.cs.cornell.edu/deepgrasping/                       | RGBD detection                                               | A dataset for detecting robotic grasps.                      |
 
