@@ -46,4 +46,5 @@ A catalog for `/data3`.
 | GraspingRectangleDataset  | `/data3/GraspingRectangle/`        | 10G    | http://pr.cs.cornell.edu/deepgrasping/                       | RGBD detection                                               | A dataset for detecting robotic grasps.                      |
 | Visual Genome             | `  /data3/Visual_Genome`           | 15G    | http://visualgenome.org/                                     | Visual Relationship Detection                                | Visual Genome is a dataset, a knowledge base, an ongoing effort to connect structured image concepts to language. |
 | Human 3.6M                | `  /data3/Human36M`                | 32G    | http://vision.imar.ro/human3.6m/description.php              | RGBD Human Pose Estimation                                   | A dataset for detecting human keypoints from RGBD data       |
+| UCF-101                   | `/data3/UCF-all-in-one`            | 94G    | http://crcv.ucf.edu/data/UCF101.php                          | Video analysis                                               | including UCF-101(the original video), ucf_frame(video frames) and ucf_transed(optical flow) |
 
