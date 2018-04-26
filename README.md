@@ -49,4 +49,5 @@ A catalog for `/data3`.
 | UCF-101                   | `/data3/UCF-all-in-one`            | 94G    | http://crcv.ucf.edu/data/UCF101.php                          | Video analysis                                               | Including UCF-101(the original video), ucf_frame(video frames) and ucf_transed(optical flow) |
 | DiDi Self-Driving Dataset | `/data3/DiDi`                      | ~500G  | http://research.xiaojukeji.com/                              | 3D Object Detection with multiple sensors                    |                                                              |
 | DOTA                      | `/data3/DOTA`                      | 20G    | http://captain.whu.edu.cn/DOTAweb/                           | Aerial Images; Small Object Detection                        | A Large-scale Dataset for Object Detection in Aerial Images  |
+| PoseTrack                 | `/data3/Posetrack`                 | 33G    | https://posetrack.net/                                       | Pose estimation; Tracking.                                   | PoseTrack is a new large-scale benchmark for human pose estimation and tracking in video. |
 
