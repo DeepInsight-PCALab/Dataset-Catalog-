@@ -50,4 +50,5 @@ A catalog for `/data3`.
 | DiDi Self-Driving Dataset | `/data3/DiDi`                      | ~500G  | http://research.xiaojukeji.com/                              | 3D Object Detection with multiple sensors                    |                                                              |
 | DOTA                      | `/data3/DOTA`                      | 20G    | http://captain.whu.edu.cn/DOTAweb/                           | Aerial Images; Small Object Detection                        | A Large-scale Dataset for Object Detection in Aerial Images  |
 | PoseTrack                 | `/data3/Posetrack`                 | 33G    | https://posetrack.net/                                       | Pose estimation; Tracking.                                   | PoseTrack is a new large-scale benchmark for human pose estimation and tracking in video. |
+| VisDrone                  | ` /data3/VisDrone`                 | 14G    | http://www.aiskyeye.com/views/index                          | Bird-view detection; Drone survallence detection.            | *Pengfei Zhu, Longyin Wen, Xiao Bian, Haibin Ling and Qinghua Hu, arXiv 2018.* **Vision Meets Drones: A Challenge.** |
 
