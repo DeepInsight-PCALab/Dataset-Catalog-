@@ -51,4 +51,6 @@ A catalog for `/data3`.
 | DOTA                      | `/data3/DOTA`                      | 20G    | http://captain.whu.edu.cn/DOTAweb/                           | Aerial Images; Small Object Detection                        | A Large-scale Dataset for Object Detection in Aerial Images  |
 | PoseTrack                 | `/data3/Posetrack`                 | 33G    | https://posetrack.net/                                       | Pose estimation; Tracking.                                   | PoseTrack is a new large-scale benchmark for human pose estimation and tracking in video. |
 | WIDER Person Search       | `/data3/WIDER_Person_Search`       | 12G    | https://competitions.codalab.org/competitions/19055#participate | Person Search; Person Detection; Re-identification           | WIDER Face & Pedestrain Challenge - Track 3: Person Search   |
+| VisDrone                  | ` /data3/VisDrone`                 | 14G    | http://www.aiskyeye.com/views/index                          | Bird-view detection; Drone survallence detection.            | *Pengfei Zhu, Longyin Wen, Xiao Bian, Haibin Ling and Qinghua Hu, arXiv 2018.* **Vision Meets Drones: A Challenge.** |
+
 
