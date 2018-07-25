@@ -55,5 +55,6 @@ A catalog for `/data3`.
 | SmartCity                 | `/data3/smartcity`                 | 28G    | https://cpipc.chinadegrees.cn/cw/hp/1                        | Action Recognition                                           |                                                              |
 | RGBT234                   | `/data3/RGBT234`                   | 7.76G  | https://sites.google.com/view/ahutracking001                 | RGB-T tracking, Thermal image                                | Including RGB images and Thermal images                      |
 | TB-100                    | `/data3/TB-100`                    | 2.76G  | http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html   | Visual Tracker                                               | Including RGB images and ground truth                        |
+| Youtube-8M                | `/data3/Youtube-8M`                | 1.8T   | https://research.google.com/youtube8m                        |                                                              |                                                              |
 
 
