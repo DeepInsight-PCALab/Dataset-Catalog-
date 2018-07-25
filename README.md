@@ -56,5 +56,7 @@ A catalog for `/data3`.
 | RGBT234                   | `/data3/RGBT234`                   | 7.76G  | https://sites.google.com/view/ahutracking001                 | RGB-T tracking, Thermal image                                | Including RGB images and Thermal images                      |
 | TB-100                    | `/data3/TB-100`                    | 2.76G  | http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html   | Visual Tracker                                               | Including RGB images and ground truth                        |
 | Youtube-8M                | `/data3/Youtube-8M`                | 1.8T   | https://research.google.com/youtube8m                        |                                                              |                                                              |
+| CUB-200-2011              | `/data3/CUB_200_2011`              | 1.1G   | http://www.vision.caltech.edu/visipedia/CUB-200-2011.html    | Bird Classification                                          |                                                              |
+| Online Product            | `/data3/Online_Product`            | 2.9G   | http://cvgl.stanford.edu/projects/lifted_struct/             | Product Retrieval                                            |                                                              |
 
 
