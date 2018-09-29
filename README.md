@@ -59,5 +59,6 @@ A catalog for `/data3`.
 | CUB-200-2011                                  | `/data3/CUB_200_2011`                | 1.1G   | http://www.vision.caltech.edu/visipedia/CUB-200-2011.html    | Bird Classification                                          |                                                              |
 | Online Product                                | `/data3/Online_Product`              | 2.9G   | http://cvgl.stanford.edu/projects/lifted_struct/             | Product Retrieval                                            |                                                              |
 | Automated Driving 3D Point Cloud Segmentation | `/data3/3D_Point_Cloud_Segmentation` | 86.5G  | https://www.datafountain.cn/competitions/314/details/data-evaluation?tdsourcetag=s_pctim_aiomsg | Dataset for automated driving 3D point cloud segmentation    |                                                              |
+| LaSOT                                         | `/data3/LaSOT`                       | 227G   | https://cis.temple.edu/lasot                                 | Large-scale Single Object Tracking (LaSOT)                   | Including images and labels                                  |
 
 
