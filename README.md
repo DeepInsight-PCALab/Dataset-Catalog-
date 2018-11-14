@@ -61,5 +61,6 @@ A catalog for `/data3`.
 | Automated Driving 3D Point Cloud Segmentation | `/data3/3D_Point_Cloud_Segmentation` | 86.5G  | https://www.datafountain.cn/competitions/314/details/data-evaluation?tdsourcetag=s_pctim_aiomsg | Dataset for automated driving 3D point cloud segmentation    |                                                              |
 | LaSOT                                         | `/data3/LaSOT`                       | 227G   | https://cis.temple.edu/lasot                                 | Large-scale Single Object Tracking (LaSOT)                   | Including images and labels                                  |
 | AIChallenger Caption                          | `/data3/ai_challenger_caption`       | 21.7G  | -                                                            | -                                                            | -                                                            |
+| UCF_Crime                                     | `/data3/UCF_Crime`                   | 208G   | <http://crcv.ucf.edu/projects/real-world/>                   |                                                              | a dataset for anomaly detection, including initial video, generated images and optical flows |
 
 
