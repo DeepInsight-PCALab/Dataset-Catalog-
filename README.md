@@ -62,5 +62,6 @@ A catalog for `/data3`.
 | LaSOT                                         | `/data3/LaSOT`                       | 227G   | https://cis.temple.edu/lasot                                 | Large-scale Single Object Tracking (LaSOT)                   | Including images and labels                                  |
 | AIChallenger Caption                          | `/data3/ai_challenger_caption`       | 21.7G  | -                                                            | -                                                            | -                                                            |
 | UCF_Crime                                     | `/data3/UCF_Crime`                   | 208G   | <http://crcv.ucf.edu/projects/real-world/>                   |                                                              | a dataset for anomaly detection, including initial video, generated images and optical flows |
+| KTH                                           | `/data3/KTH`                         | 1G     | http://www.nada.kth.se/cvap/actions/                         |                                                              | The current video database containing six types of human actions (walking, jogging, running, boxing, hand waving and hand clapping). |
 
 
