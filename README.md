@@ -65,5 +65,6 @@ A catalog for `/data3`.
 | KTH                                           | `/data3/KTH`                         | 1G     | http://www.nada.kth.se/cvap/actions/                         |                                                              | The current video database containing six types of human actions (walking, jogging, running, boxing, hand waving and hand clapping). |
 | AirbusShipDetection                           | `/data3/Ship_detection`              | 29G    | https://www.kaggle.com/c/airbus-ship-detection/data          | Satellite images, ships are varying in angles.               | Kaggle Ship Detection Challenge                              |
 | 跨越险阻                                      | `/data3/Kuayuexianzu`                | 2.86G  | None                                                         | Self-labeled dataset.                                        |                                                              |
+| GOT-10k                                       | `/data3/GOT`                         | 68G    | [http://got-10k.aitestunion.com](http://got-10k.aitestunion.com/) | Generic object tracking dataset by CASIA                     |                                                              |
 
 
