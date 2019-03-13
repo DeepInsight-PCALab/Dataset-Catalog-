@@ -67,5 +67,9 @@ A catalog for `/data3`.
 | 跨越险阻                                      | `/data3/Kuayuexianzu`                | 2.86G  | None                                                         | Self-labeled dataset.                                        |                                                              |
 | GOT-10k                                       | `/data3/GOT`                         | 68G    | [http://got-10k.aitestunion.com](http://got-10k.aitestunion.com/) | Generic object tracking dataset by CASIA                     |                                                              |
 | CULane                                        | `/data3/CULane/`                     | 120G   | <http://xingangpan.github.io/projects/CULane.html>           | lane marking detection                                       |                                                              |
+| Cloth1M                                       | `/data3/Cloth1M/`                    | TBD    | <https://github.com/Cysu/noisy_label>                        | label noise robust learning                                  | images, ground true labels and noisy labels                  |
+| NTU RGB+D                                     | `/data3/NTU_RGB+D/`                  | 437G   | <http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp>     | RGB+D action recognition                                     | including rgb videos and skeletons and depth maps            |
+
+
 
 
