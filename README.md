@@ -75,6 +75,7 @@ A catalog for `/data3`.
 | SBU and ISTD                                  | `/data3/shadow`                      | 10G    | <https://www3.cs.stonybrook.edu/~minhhoai/projects/shadow.html>, <https://github.com/DeepInsight-PCALab/ST-CGAN> | DeShadow/ shadow detection/ shadow removal                   | Including RGB pairs, RGB triplets.                           |
 | DIV2K                                         | `/data3/DIV2K`                       | 230G   | <https://data.vision.ee.ethz.ch/cvl/DIV2K/>                  | dataset for single image super resolution tasks              |                                                              |
 | Scene Flow                                    | `/data3/SceneFlow`                   | 15.1G  | <https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html> | This dataset collection has been used to train convolutional networks in our CVPR 2016 paper [A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation](https://lmb.informatik.uni-freiburg.de/Publications/2016/MIFDB16/). |                                                              |
+| PKU-MMD                                       | `/data3/PKUMMD/`                     | 20G    | <http://www.icst.pku.edu.cn/struct/Projects/PKUMMD.html>     | A Large Scale Benchmark for Continuous Multi-Modal Human Action Understanding |                                                              |
 
 
 
