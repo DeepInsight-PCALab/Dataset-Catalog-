@@ -81,6 +81,7 @@ A catalog for `/data3`.
 | GTOT                                          | `/data3/GTOT`                        | 1.6G               | <http://chenglongli.cn/people/lcl/dataset-code.html>         | Learning Collaborative Sparse Representation for Grayscale-thermal Tracking |                                                              |
 | PARD                                          | `/data3/PARD`                        | 29G                | (haven't released yet)                                       | Pedestrian action recognition dataset                        | Including video clips and corresponding heatmap.             |
 | PartialREID & Partial-iLIDS                   | `/data3/PartialREID`                 | 6.7M (not a typo!) | <https://github.com/lingxiao-he/Partial-Person-ReID>         | A small dataset for partial person re-identification         |                                                              |
+| VOT2019 RGBT                                  | `/data3/VOT/vot2019/RGBT`            | 1.4G               | <http://www.votchallenge.net/vot2019/dataset.html>           | Visual Object Tracking                                       |                                                              |
 
 
 
