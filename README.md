@@ -83,6 +83,8 @@ A catalog for `/data3`.
 | PartialREID & Partial-iLIDS                   | `/data3/PartialREID`                 | 6.7M (not a typo!) | <https://github.com/lingxiao-he/Partial-Person-ReID>         | A small dataset for partial person re-identification         |                                                              |
 | VOT2019 RGBT                                  | `/data3/VOT/vot2019/RGBT`            | 1.4G               | <http://www.votchallenge.net/vot2019/dataset.html>           | Visual Object Tracking                                       |                                                              |
 | CrowdHuman                                    | `/data3/CrowdHuman`                  | 20G                | [http://www.crowdhuman.org/download.html](http://www.crowdhuman.org/download.html) | Human Detection Dataset                                      |                                                              |
+| NightOwls                                     | `/data3/NightOwls`                   | 185G               | <http://www.nightowls-dataset.org/download/>                 | A pedestrians at night dataset                               | Including training and validation images(image resolusion 1024x640) |
+| EuroCity Persons Dataset                      | `/data3/ECP`                         | 100G               | <https://eurocity-dataset.tudelft.nl/eval/benchmarks/detection> | Pedestrian Detection                                         |                                                              |
 
 
 
