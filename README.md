@@ -85,6 +85,7 @@ A catalog for `/data3`.
 | CrowdHuman                                    | `/data3/CrowdHuman`                  | 20G                | [http://www.crowdhuman.org/download.html](http://www.crowdhuman.org/download.html) | Human Detection Dataset                                      |                                                              |
 | NightOwls                                     | `/data3/NightOwls`                   | 185G               | <http://www.nightowls-dataset.org/download/>                 | A pedestrians at night dataset                               | Including training and validation images(image resolusion 1024x640) |
 | EuroCity Persons Dataset                      | `/data3/ECP`                         | 100G               | <https://eurocity-dataset.tudelft.nl/eval/benchmarks/detection> | Pedestrian Detection                                         |                                                              |
+| SemanticKITTI                                 | `/data3/SenmanticKITTI`              | 80G                | http://semantic-kitti.org/dataset.html                       | A Dataset for Semantic Scene Understanding using LiDAR Sequences |                                                              |
 
 
 
